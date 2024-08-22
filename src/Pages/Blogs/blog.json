@@ -1,0 +1,29 @@
+[
+    {    
+        "id":1,
+        "title":"Learn Javascript from scratch",
+        "description":"javascript is a programming language that used in building web applications.if you want to become a developer first and most important thing that i want to tell you is please emphasise on foundation on specific language not framework.Framework helps to build web applications faster remember framework or library may replace by new frameworks in future. but your main foundation doesn't.By the end of this blog you'll have a great understanding of javascript. Happy Coding : )",
+        "date":"25 july 2024",
+        "series":{
+            "title":"Javascript Fundamentals",
+            "contents":["Planned: A Fun and Productive Techstack to Build a Developer Blog","Event Loop","Event Deligation and Propagation","How javascript works in Browser","Garbage Collector"]
+        },
+        "onthispage":{
+            "title":"On this page",
+            "list":["Example","How it Works","Why is this a big deal"]
+        },
+        "blog":{
+            "blog-content-1":"In the world of JavaScript, the event loop is a mechanism that enables asynchronous operations to be executed in a non-blocking manner. Understanding the event loop is essential for developing web applications because it underpins the asynchronous nature of JavaScript, which is fundamental for building responsive and efficient web applications. While this concept may seem daunting at first, I’ll break it down so developers of all levels can find something useful. If you’re unfamiliar with some of the terms used, don’t worry — I’ll explain them all. But before we delve into what that means, let’s first understand how JavaScript works and why we even need the event loop.",
+            "blog-content-2":{
+                "title":"Javascript is single threaded",
+                "detail":"Imagine single-threaded JavaScript like a single employee working at a desk. This employee can only handle one task at a time, so they process tasks sequentially, completing each one before moving on to the next. Similarly, in single-threaded JavaScript, it processes each line of code one at a time, ensuring that only one operation is executed at any given moment."
+            }
+        }
+          
+    },
+    {
+        "id":2,
+        "title":"Learn Big-O notation",
+        "description":"Big-0 notation is basically used to calculate and describe the performance of an algorithm.By the end of this blog you'll have a basic understanding of the Big-O notation"
+    }
+]

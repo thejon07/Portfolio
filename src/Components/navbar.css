@@ -1,0 +1,24 @@
+
+.cont{
+    background: -webkit-linear-gradient(left top, red 0%, purple 100%);
+    width: 77px;
+    height: 78px;
+    border-radius: 1000px;
+    margin-top:13px;
+    padding: 2px;
+  }
+  
+  .box{
+    background: black;
+    width: 72px;
+    height: 74px;
+    border-radius: 1000px;
+  }
+  .profile-tag{
+    color:rgba(255, 228, 230, .5);
+    font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
+  .profile{
+    color: rgba(255, 228, 230, .9);
+    font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }

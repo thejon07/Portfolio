@@ -1,0 +1,8 @@
+.foo{
+    color: rgba(255, 228, 230, .9);
+    font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.foo-p{
+    color: rgba(255, 228, 230, .5);
+    font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}

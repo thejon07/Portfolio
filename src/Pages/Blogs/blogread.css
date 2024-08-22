@@ -1,0 +1,13 @@
+.series{
+    color:rgba(255, 228, 230, .5); 
+    font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: rgb(88 73 74 / 90%);
+}
+.blogreadhead{
+    color: rgba(255, 228, 230, .9);
+    font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.series-child{
+    color:rgba(255, 228, 230, .5); 
+    background-color: rgb(88 73 74 / 90%);
+}
